@@ -170,4 +170,8 @@ li:hover a {
     display: grid;
     place-items: center;
   }
+  .container {
+    align-items: center;
+    height: 100%;
+  }
 }
