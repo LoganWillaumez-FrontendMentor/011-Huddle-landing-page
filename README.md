@@ -1,6 +1,6 @@
 # Huddle-landing-page
 
-Front end mentor challenge : [Link](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam)
+Front end mentor challenge : [Link](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
 
 
 ## Screenshots
