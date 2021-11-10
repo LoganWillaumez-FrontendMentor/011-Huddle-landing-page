@@ -11,6 +11,6 @@ Front end mentor challenge : [Link](https://www.frontendmentor.io/challenges/hud
   
 ## Demo
 
-https://loganwillaumez.github.io/Huddle-landing-page/
+https://loganwillaumez-frontendmentor.github.io/011-Huddle-landing-page/
 
   
